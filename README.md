@@ -2,6 +2,7 @@ Visit website at: https://toneygroupcu.github.io/code_website/
 
 Setup a github account, join ToneyGroupCU organization.
 
+# How to contribute to this website
 Install git, setup your SSH and link it to your github account. (Ask chatgpt if you don't know how to do it)
 
 Create python environment (>=3.7):
@@ -34,13 +35,12 @@ Install requirements:
 ```python
 pip install -r requirements.txt
 ```
-
+## Add your own content to the website
 Preview the docs:
 
 ```python
 mkdocs serve -s
 ```
-
 
 Build the site
 
