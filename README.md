@@ -1,3 +1,4 @@
+Visit website at: https://toneygroupcu.github.io/code_website/
 Setup a github account, join ToneyGroupCU organization.
 
 Install git, setup your SSH and link it to your github account. (Ask chatgpt if you don't know how to do it)
@@ -24,6 +25,7 @@ Clone the repo to local path:
 
 ```python
 git clone https://github.com/ToneyGroupCU/code_website.git
+cd code_website
 ```
 
 Install requirements:
