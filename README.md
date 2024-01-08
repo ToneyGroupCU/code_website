@@ -35,7 +35,7 @@ Install requirements:
 ```python
 pip install -r requirements.txt
 ```
-## Add your own content to the website
+#### Add your own content to the website
 Preview the docs:
 
 ```python
