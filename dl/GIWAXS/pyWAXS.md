@@ -3,6 +3,9 @@
 ### pyWAXS: Our group's Python-based GIWAXS data reduction and analysis package.
 We intend for this module to include working UI (user interface) deployable executable(s) to assist with 2D GIWAXS data reduction, peak search & analysis, WAXS image simulation from (CIF/POSCAR) files, and reverse GIWAXS problem solving capabilities.
 
+### Team
+Zihan
+
 ### Program Structure
 <!-- See [Instruction](https://squidfunk.github.io/mkdocs-material/reference/diagrams/). -->
 
