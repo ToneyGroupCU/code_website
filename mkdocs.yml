@@ -133,3 +133,4 @@ nav:
     - "Rasx to image file": Rigaku/intro.md
   - "Tools":
     - "Perovskite salt weight calculator": Tools/salt.md
+  - "Website Maintenance": Website_maintenance/index.md

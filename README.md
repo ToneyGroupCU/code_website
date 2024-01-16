@@ -48,9 +48,9 @@ Build the site
 mkdocs build
 ```
 
-Push the project to group_page repo (after testing your build)
+Push the project to code_website repo (after testing your build)
 ```python
 git add --all
-git commit -m "updating the group_page repo"
+git commit -m "updating the code_website repo"
 git push
 ```
