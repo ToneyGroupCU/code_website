@@ -1,7 +1,7 @@
 # mkdocs.yml
-site_name: "Material Characterization"
+site_name: "Toney Group Code Collection"
 site_author: ""
-site_description: "Material characterization"
+site_description: "Toney Group Code"
 site_dir: docs
 docs_dir: "dl"
 
@@ -133,4 +133,6 @@ nav:
     - "Rasx to image file": Rigaku/intro.md
   - "Tools":
     - "Perovskite salt weight calculator": Tools/salt.md
-  - "Website Maintenance": Website_maintenance/index.md
+  - "Website Maintenance": 
+    - "How to contribute to this website": Website_maintenance/index.md
+    - "How to use mkdocs to build the website": Website_maintenance/guide.md

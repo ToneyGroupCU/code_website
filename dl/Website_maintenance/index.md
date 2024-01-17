@@ -1,5 +1,3 @@
-## How to contribute to this website
-
 ### 1. Join the Toney Group organization
 This website is a code illustration from Toney group. You will need to join the Toney Group organization (Github) to make changes on the website. The manager of the organization (Keith, Tom, Andrew, Zihan) can add you to the organization.
 
