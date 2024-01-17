@@ -11,7 +11,7 @@ $$
 
 Figure:
 <figure>
-  <img src="/assets/ssrl.gif" width=300px;>
+  <img src="../assets/ssrl.gif" width=300px;>
   <figcaption>Fig 1. This is a Synchrotron.</figcaption>
 </figure>
 
