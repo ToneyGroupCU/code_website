@@ -6,7 +6,7 @@ This website is a code illustration from Toney group. You will need to join the 
 ### 2. Setup the environment and the repository
 Download the source code
 
-1. Use pip through terminal:
+1. Use git through terminal:
 
     1. go to the local path you want to download the code at
 
