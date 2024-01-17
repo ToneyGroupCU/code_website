@@ -4,7 +4,7 @@
 This website is a code illustration from Toney group. You will need to join the Toney Group organization (Github) to make changes on the website. The manager of the organization (Keith, Tom, Andrew, Zihan) can add you to the organization.
 
 ### 2. Setup the environment and the repository
-Download the resource code
+Download the source code
 
 1. Use pip through terminal:
 
@@ -44,7 +44,7 @@ mkdocs -s serve
 
 The website is now held on a local address http://127.0.0.1:8000.
 
-You can then make changes of the resource in 'dl' folder and you will see the changes at http://127.0.0.1:8000 in real time.
+You can then make changes of the source in 'dl' folder and you will see the changes at http://127.0.0.1:8000 in real time.
 
 ### 5. Build the website and upload it to github
 
