@@ -132,6 +132,7 @@ nav:
   - "Rigaku":
     - "Rasx to image file": Rigaku/intro.md
   - "Tools":
+    - "Ewald sphere correction": Tools/ewd.md
     - "Perovskite salt weight calculator": Tools/salt.md
   - "Website Maintenance": 
     - "How to contribute to this website": Website_maintenance/index.md
